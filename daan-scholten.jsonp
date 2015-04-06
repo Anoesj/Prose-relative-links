@@ -1,31 +1,43 @@
 callback([
   {
+    "text": "Home",
+    "href": "/",
+    "title": "Home"
+  },
+
+  {
     "text": "Over mij",
-    "href": "/over-mij/"
+    "href": "/over-mij/",
+    "title": "Over mij"
   },
 
   {
     "text": "Blog",
-    "href": "/blog/"
+    "href": "/blog/",
+    "title": "Blog"
   },
 
   {
     "text": "Portfolio",
-    "href": "/portfolio/"
+    "href": "/portfolio/",
+    "title": "Portfolio"
   },
 
   {
     "text": "Studio",
-    "href": "/studio/"
+    "href": "/studio/",
+    "title": "Studio"
   },
 
   {
     "text": "Live",
-    "href": "/live/"
+    "href": "/live/",
+    "title": "Live"
   },
 
   {
     "text": "Contact",
-    "href": "/contact/"
+    "href": "/contact/",
+    "title": "Contact"
   }
 ])
